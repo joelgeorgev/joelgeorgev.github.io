@@ -12,3 +12,4 @@ Web developer
 * [Twitter](https://www.twitter.com/joelgeorgev)
 * [Keybase](https://www.keybase.io/joelgeorgev)
 * [Reddit](https://www.reddit.com/user/joelgeorgev)
+* [Medium](https://medium.com/@joelgeorgev)
