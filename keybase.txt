@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/joelgeorgev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joelgeorgev.github.io
+  * I am joelgeorgev (https://keybase.io/joelgeorgev) on keybase.
+  * I have a public key ASAgpj0ILsqDYiBrL175Bc7Se01GlkWRWeRaQFAOK7cCcgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010157628b4043d19940cf301b38f6c8109dd38775236ce2e888bbff5df3d4efbf950a",
+            "host": "keybase.io",
+            "kid": "012020a63d082eca8362206b2f5ef905ced27b4d4696459159e45a40500e2bb702720a",
+            "uid": "98a0ccccaf5e894ee68faadacb614219",
+            "username": "joelgeorgev"
+        },
+        "service": {
+            "hostname": "joelgeorgev.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1493057330,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493057210,
+        "hash": "f309912c2865121aa1b025022710074e4efbd9360ce62faa1777c115ffa88a4943785d67c49b651842034531477a2ecc48f301c5dc775b7087274cd494c942c0",
+        "seqno": 1035771
+    },
+    "prev": "9ede76ff0ecd5c90f4e0418c7910c0a9060c32f6d3cb50f2910537d68ad34622",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIKY9CC7Kg2Igay9e+QXO0ntNRpZFkVnkWkBQDiu3AnIKp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNTc2MjhiNDA0M2QxOTk0MGNmMzAxYjM4ZjZjODEwOWRkMzg3NzUyMzZjZTJlODg4YmJmZjVkZjNkNGVmYmY5NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjBhNjNkMDgyZWNhODM2MjIwNmIyZjVlZjkwNWNlZDI3YjRkNDY5NjQ1OTE1OWU0NWE0MDUwMGUyYmI3MDI3MjBhIiwidWlkIjoiOThhMGNjY2NhZjVlODk0ZWU2OGZhYWRhY2I2MTQyMTkiLCJ1c2VybmFtZSI6ImpvZWxnZW9yZ2V2In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqb2VsZ2Vvcmdldi5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMSJ9LCJjdGltZSI6MTQ5MzA1NzMzMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkzMDU3MjEwLCJoYXNoIjoiZjMwOTkxMmMyODY1MTIxYWExYjAyNTAyMjcxMDA3NGU0ZWZiZDkzNjBjZTYyZmFhMTc3N2MxMTVmZmE4OGE0OTQzNzg1ZDY3YzQ5YjY1MTg0MjAzNDUzMTQ3N2EyZWNjNDhmMzAxYzVkYzc3NWI3MDg3Mjc0Y2Q0OTRjOTQyYzAiLCJzZXFubyI6MTAzNTc3MX0sInByZXYiOiI5ZWRlNzZmZjBlY2Q1YzkwZjRlMDQxOGM3OTEwYzBhOTA2MGMzMmY2ZDNjYjUwZjI5MTA1MzdkNjhhZDM0NjIyIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAU9d0QuGfQ4EkxEBIFj1APHhSPhk/vc1jxnW2V2byzgnGLdopGlMakIjcDxu1pnLFWlURFTagPuWIAwU81W7MBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFQOLoq9vJlZKc91RHZGIxNcEPWonB+c2dL0gO5nfxhbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joelgeorgev
+
+==================================================================
