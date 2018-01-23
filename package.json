@@ -15,5 +15,8 @@
   "repository": "https://github.com/joelgeorgev/joelgeorgev.github.io",
   "author": "Joel George V",
   "homepage": "https://joelgeorgev.github.io",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tachyons": "^4.9.1"
+  }
 }
